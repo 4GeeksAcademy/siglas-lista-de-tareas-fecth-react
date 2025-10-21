@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.marco {
+  max-width: 500px; 
+  margin: 0 auto; 
+  background-color: rgb(249, 248, 248); 
+  border: 1px solid #e9ecef; 
+}
